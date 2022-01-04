@@ -20,7 +20,7 @@
 
 ---
 
-<br /><br /><br />
+<br />
 
 ### Follow Me in Sosial Media 🎬 
 
@@ -36,7 +36,7 @@
 
 ---
 
-<br /><br /><br />
+<br />
 
 ### This recent my stats 📊
 
