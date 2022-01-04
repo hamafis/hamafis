@@ -1,4 +1,4 @@
-## Hi Guys, I'm Ilham - aka [Hamafis][website] 🙌
+## Hi Guys, I'm Ilham - aka [Hamafis][Website] 🙌
 ---
 
 ### You can visit my web in here
