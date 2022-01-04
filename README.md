@@ -34,7 +34,7 @@
 
 ### 📊 This recent my stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamafis)](https://github.com/hamafis)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamafis&layout=compact)](https://github.com/hamafis)
 
 ---
 
