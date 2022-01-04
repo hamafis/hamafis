@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-### Follow Me in Sosial Media 🎬 
+### 🎬 Follow Me in Sosial Media  
 
 [<img align="left" alt="Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-### This recent my stats 📊
+### 📊 This recent my stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamafis)](https://github.com/hamafis/vitae)
 
