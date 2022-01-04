@@ -40,7 +40,7 @@
 
 
 
-[website]: https://hamafis.netlify.app
+[website]: https://hamafis.netlify.app/
 [facebook]: https://web.facebook.com/IlhamMuhFirdaus
 [twitter]: https://twitter.com/Hamafis_
 [instagram]: https://www.instagram.com/hamafis
