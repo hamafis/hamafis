@@ -20,19 +20,23 @@
 
 ---
 
+<br /><br /><br />
+
 ### Follow Me in Sosial Media 🎬 
 
-[<img align="left" alt="Facebook" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Twitter" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Instagram" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dribble" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/dribbble.svg" />][dribble]
-[<img align="left" alt="Fiverr" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dribble" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/dribbble.svg" />][dribble]
+[<img align="left" alt="Fiverr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/fiverr.svg" />][fiverr]
 
 <br/>
 <br />
 
 ---
+
+<br /><br /><br />
 
 ### This recent my stats 📊
 
