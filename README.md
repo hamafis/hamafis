@@ -1,12 +1,12 @@
-## Hi Guys 🙌, I'm Ilham - aka [Hamafis][website] 
+# Hi Guys 🙌, I'm Ilham - aka [Hamafis][website] 
 
 
-### 🌐 You can visit my web in here 👇
+## 🌐 You can visit my web in here 👇
 [![Website](https://img.shields.io/website?label=Hamafis%20INC&logoColor=0086E8&style=for-the-badge&up_color=2289F8&up_message=Visit&url=https%3A%2F%2Fhamafis.netlify.app)](https://hamafis.netlify.app/)
 
 ---
 
-### 🛠️ I'm Frontend Developers, this my language and tools i use
+## 🛠️ I'm Frontend Developers, this my language and tools i use
 [<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-### 🎬 Follow Me in Sosial Media  
+## 🎬 Follow Me in Sosial Media  
 
 [<img align="left" alt="Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -32,9 +32,10 @@
 <br/>
 <br/>
 
-### 📊 This recent my stats 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamafis&layout=compact)](https://github.com/hamafis)
+## 📊 This recent my stats 
+|Languages|
+|---|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamafis&layout=compact)](https://github.com/hamafis)|
 
 ---
 
